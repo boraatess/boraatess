@@ -5,6 +5,10 @@
 - 💬 Ask me about Mobile Application Development!
 - ⚡ How to reach me: boraatess@outlook.com
 
+### Now Playing on Spotify  🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11131199383)
+
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />][github]
