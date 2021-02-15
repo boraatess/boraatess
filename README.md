@@ -5,7 +5,7 @@
 - 💬 Ask me about Mobile Application Development!
 - ⚡ How to reach me: boraatess@outlook.com
 
-[profileviews]
+<img src="https://komarev.com/ghpvc/?username=boraatess&label=PROFILE+VIEWS" />
 
 ### Now Playing on Spotify  🎧
 
@@ -59,5 +59,4 @@
 [googleplay]: https://play.google.com/store/apps/developer?id=Bora+Ate%C5%9F
 [googledeveloper]: https://developers.google.com/
 [firebase]: https://firebase.google.com/
-[profileviews]: https://komarev.com/ghpvc/?username=boraatess&label=PROFILE+VIEWS
 
