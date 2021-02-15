@@ -5,6 +5,8 @@
 - 💬 Ask me about Mobile Application Development!
 - ⚡ How to reach me: boraatess@outlook.com
 
+[profileviews]
+
 ### Now Playing on Spotify  🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11131199383)
@@ -57,4 +59,5 @@
 [googleplay]: https://play.google.com/store/apps/developer?id=Bora+Ate%C5%9F
 [googledeveloper]: https://developers.google.com/
 [firebase]: https://firebase.google.com/
-[profileviews]: https://camo.githubusercontent.com/aeb69455e632b676ef62cb12846cf7ce925f1bf9b3bfb3c90a032d4072bb8758/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d627567726179656e6964756e7961
+[profileviews]: https://komarev.com/ghpvc/?boraatess=your-github-boraatess&label=PROFILE+VIEWS
+
