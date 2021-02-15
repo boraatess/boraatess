@@ -59,5 +59,5 @@
 [googleplay]: https://play.google.com/store/apps/developer?id=Bora+Ate%C5%9F
 [googledeveloper]: https://developers.google.com/
 [firebase]: https://firebase.google.com/
-[profileviews]: https://komarev.com/ghpvc/?boraatess=your-github-boraatess&label=PROFILE+VIEWS
+[profileviews]: https://komarev.com/ghpvc/?username=boraatess&label=PROFILE+VIEWS
 
