@@ -1,8 +1,8 @@
 ### Hi there, I'm Bora!👋
 
 - 🔭 I'm Mobile Application Developer!
-- 🌱 I'm currently learning iOS & Swift at the same time as Android & Java
-- 💬 Ask me about Mobile Application Development!
+- 🌱 I'm currently learning iOS & Swift
+- 💬 Ask me about iOS Application Development!
 - ⚡ How to reach me: boraatess@outlook.com
 
 <img src="https://komarev.com/ghpvc/?username=boraatess&label=PROFILE+VIEWS" />
