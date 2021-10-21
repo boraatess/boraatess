@@ -1,6 +1,6 @@
 ### Hi there, I'm Bora!👋
 
-- 🔭 I'm Mobile Application Developer!
+- 🔭 I'm iOS Developer!
 - 🌱 I'm currently learning iOS & Swift
 - 💬 Ask me about iOS Application Development!
 - ⚡ How to reach me: boraatess@outlook.com
